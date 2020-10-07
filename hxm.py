@@ -188,7 +188,7 @@ logo2 = """
 \033[1;96m😎H X M  009   M O N T E R❤️..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
                                                 
-\033[1;97m---------------------SOMI--------------------
+\033[1;97m---------------------ASAD-ANSAARI--------------------
 """
 CorrectUsername = "HXM"
 CorrectPassword = "009"
@@ -237,9 +237,9 @@ def pilih_login():
 def Zeek():
     os.system('clear')
     print logo1
-    print '\x1b[1;91m[1]  START CLONING With SOMI'
+    print '\x1b[1;91m[1]  START CLONING With ASAD'
     time.sleep(0.10)
-    print '\x1b[1;92m[2] SOMI FB ACCOUNT'
+    print '\x1b[1;92m[2] ASAD FB ACCOUNT'
     time.sleep(0.10)
     print '\x1b[1;95m[3] MORE INFO'
     time.sleep(0.10)
@@ -247,7 +247,7 @@ def Zeek():
     time.sleep(0.10)
     print '\x1b[1;97m[5] CLONING ERROR'
     time.sleep(0.10)
-    print '\x1b[1;91m[6] SOMI FACEBOOK'
+    print '\x1b[1;91m[6] ASAD FACEBOOK'
     time.sleep(0.10)
     print '\x1b[1;94m[0] back'
    
